@@ -1,5 +1,5 @@
 User.create!(name:  "Saif Jilani",
-             email: "saifjilani93@gmail.com",
+             email: "saifali@umich.edu",
              password:              "foobar",
              password_confirmation: "foobar",
              admin:     true,
