@@ -9,5 +9,6 @@ if Rails.env.production?
       :path_style => true
     }
     config.fog_directory     =  ENV['S3_BUCKET']
+    config.asset_host     = 'https://enigmatic-mesa-92204.herokuapp.com'
   end
 end
